@@ -1,10 +1,12 @@
 # Fraud service
 
-The goal of this project is to build a solution for [this](https://gist.github.com/cloudwalk-tests/76993838e65d7e0f988f40f1b1909c97) problem statement from CloudWalk interview process.
+The goal of this project is to build a solution for [this](./resources/statements.md) problem statement from CloudWalk interview process.
 
-- [Client](#client)
-- [Protocol Buffer](#protocol-buffer)
-- [Server](#server)
+- [Fraud service](#fraud-service)
+  - [Client](#client)
+  - [Protocol Buffer](#protocol-buffer)
+  - [Server](#server)
+  - [Transaction rejection criteria](#transaction-rejection-criteria)
 
 ## [Client](./client/)
 
